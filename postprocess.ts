@@ -20,7 +20,7 @@ const tsv = await readCSV(filename, {
       "gust speed": row["GST"],
       "wave height": row["WVHT"],
       "dominant wave period": row["DPD"],
-      "water temperatur": row["WTMP"],
+      "water temperature": row["WTMP"],
     };
   },
 });
