@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2021-08-31T03:00:00Z,70,7.0,9.0,0.3,3,16.1
 2021-08-31T02:00:00Z,70,6.0,9.0,0.3,3,16.3
 2021-08-31T01:00:00Z,90,6.0,7.0,0.3,2,16.3
 2021-08-31T00:00:00Z,100,5.0,6.0,0.3,3,16.3
@@ -22,4 +23,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2021-08-30T05:00:00Z,170,2.0,2.0,0.3,3,18.0
 2021-08-30T04:00:00Z,180,2.0,2.0,0.3,3,18.1
 2021-08-30T03:00:00Z,220,2.0,2.0,0.3,3,18.1
-2021-08-30T02:00:00Z,260,3.0,3.0,0.3,3,18.2
