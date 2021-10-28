@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2021-10-28T06:00:00Z,90,6.0,7.0,0.3,3,10.5
 2021-10-28T05:00:00Z,90,5.0,7.0,0.3,3,10.5
 2021-10-28T04:00:00Z,90,4.0,6.0,0.3,3,10.5
 2021-10-28T03:00:00Z,100,4.0,6.0,0.3,3,10.5
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2021-10-27T08:00:00Z,160,3.0,4.0,0.3,3,10.4
 2021-10-27T07:00:00Z,80,2.0,3.0,0.3,3,10.4
 2021-10-27T06:00:00Z,80,1.0,1.0,0.4,3,10.4
-2021-10-27T05:00:00Z,220,3.0,4.0,0.5,3,10.5
