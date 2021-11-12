@@ -17,7 +17,7 @@ jobs:
         with:
           deno-version: v1.x
       - name: Fetch data 
-        uses: githubocto/flat@v3
+        uses: githubocto/flat@v3.3.1
         with:
           http_url: https://www.ndbc.noaa.gov/data/realtime2/46304.txt
           downloaded_filename: buoy.tsv
