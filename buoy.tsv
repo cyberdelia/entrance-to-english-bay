@@ -1,5 +1,6 @@
 #YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE
 #yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft
+2021 11 17 05 00  30  6.0  7.0   0.3     3    MM  MM 1032.2   6.1   7.7    MM   MM +2.0    MM
 2021 11 17 04 00  30  5.0  6.0   0.3     3    MM  MM 1032.0   6.2   8.3    MM   MM +2.7    MM
 2021 11 17 03 00  20  4.0  5.0   0.4     3    MM  MM 1031.1   6.5   8.6    MM   MM +2.0    MM
 2021 11 17 02 00   0  3.0  4.0   0.5     4    MM  MM 1030.2   7.0   8.7    MM   MM +1.9    MM
@@ -24,4 +25,3 @@
 2021 11 16 07 00 280  7.0  8.0   0.9     4    MM  MM 1017.9   7.6   9.1    MM   MM +5.4    MM
 2021 11 16 06 00 280  8.0 10.0   1.0     4    MM  MM 1016.5   7.6   9.2    MM   MM +6.2    MM
 2021 11 16 05 00 280  9.0 11.0   1.0     5    MM  MM 1014.7   7.6   9.0    MM   MM +6.3    MM
-2021 11 16 04 00 280 11.0 13.0   0.9     4    MM  MM 1012.5   7.7   9.1    MM   MM +6.3    MM
