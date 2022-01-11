@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2022-01-11T21:00:00Z,80,5.0,6.0,0.3,3,7.3
 2022-01-11T20:00:00Z,80,6.0,7.0,0.4,3,7.1
 2022-01-11T19:00:00Z,90,6.0,8.0,0.5,3,6.8
 2022-01-11T18:00:00Z,70,8.0,9.0,0.6,3,6.8
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2022-01-10T23:00:00Z,30,7.0,9.0,0.3,2,6.3
 2022-01-10T22:00:00Z,30,7.0,9.0,0.4,3,6.4
 2022-01-10T21:00:00Z,70,7.0,9.0,0.5,3,6.4
-2022-01-10T20:00:00Z,70,9.0,12.0,0.5,3,6.2
