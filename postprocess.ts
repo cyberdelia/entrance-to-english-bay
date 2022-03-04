@@ -1,4 +1,4 @@
-import { readCSV } from "https://deno.land/x/flat@0.0.11/mod.ts";
+import { readCSV } from "https://deno.land/x/flat@0.0.14/mod.ts";
 import {
   DataItem,
   stringify,
