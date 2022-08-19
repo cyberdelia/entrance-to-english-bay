@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2022-08-19T01:00:00Z,190,2.0,3.0,0.3,3,21.1
 2022-08-19T00:00:00Z,260,4.0,4.0,0.3,3,21.0
 2022-08-18T23:00:00Z,280,5.0,6.0,0.3,3,20.8
 2022-08-18T22:00:00Z,260,6.0,6.0,0.4,3,19.6
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2022-08-18T03:00:00Z,300,7.0,8.0,0.6,4,19.4
 2022-08-18T02:00:00Z,300,6.0,8.0,0.5,4,20.6
 2022-08-18T01:00:00Z,290,6.0,8.0,0.5,4,20.7
-2022-08-18T00:00:00Z,300,6.0,7.0,0.5,4,20.3
