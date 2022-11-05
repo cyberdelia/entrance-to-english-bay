@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2022-11-05T22:00:00Z,260,4.0,5.0,0.3,3,9.8
 2022-11-05T21:00:00Z,290,6.0,8.0,0.4,3,9.8
 2022-11-05T20:00:00Z,290,6.0,8.0,0.4,3,9.8
 2022-11-05T19:00:00Z,290,7.0,8.0,0.4,3,9.8
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2022-11-05T00:00:00Z,40,7.0,8.0,0.2,4,9.8
 2022-11-04T23:00:00Z,40,7.0,9.0,0.2,2,9.8
 2022-11-04T22:00:00Z,30,9.0,10.0,0.3,2,9.9
-2022-11-04T21:00:00Z,30,10.0,12.0,0.3,2,9.9
