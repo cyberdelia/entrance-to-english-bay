@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2023-03-07T16:00:00Z,60,5.0,7.0,0.2,3,6.2
 2023-03-07T15:00:00Z,50,5.0,7.0,0.2,2,6.2
 2023-03-07T14:00:00Z,50,8.0,9.0,0.2,2,6.1
 2023-03-07T13:00:00Z,40,8.0,9.0,0.3,2,6.1
@@ -22,4 +23,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2023-03-06T18:00:00Z,30,11.0,13.0,0.4,3,6.5
 2023-03-06T17:00:00Z,30,10.0,13.0,0.3,2,6.0
 2023-03-06T16:00:00Z,30,9.0,12.0,0.4,3,5.9
-2023-03-06T15:00:00Z,40,7.0,11.0,0.3,2,6.0
