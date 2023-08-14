@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2023-08-14T06:00:00Z,300,9.0,13.0,0.7,4,20.2
 2023-08-14T05:00:00Z,310,8.0,10.0,0.8,4,20.0
 2023-08-14T04:00:00Z,310,7.0,9.0,0.7,4,20.4
 2023-08-14T03:00:00Z,300,9.0,10.0,0.9,4,19.4
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2023-08-13T08:00:00Z,130,1.0,1.0,0.2,3,19.9
 2023-08-13T07:00:00Z,290,1.0,2.0,0.2,3,19.7
 2023-08-13T06:00:00Z,260,2.0,2.0,0.3,3,20.0
-2023-08-13T05:00:00Z,270,1.0,1.0,0.3,3,20.4
