@@ -1,5 +1,6 @@
 #YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE
 #yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft
+2023 10 31 14 00  70  2.0  3.0   0.1     4    MM  MM 1023.4   7.0   8.9    MM   MM -0.6    MM
 2023 10 31 13 00 100  3.0  4.0   0.1     2    MM  MM 1023.5   7.2   9.5    MM   MM -0.9    MM
 2023 10 31 12 00  90  3.0  4.0   0.1     2    MM  MM 1023.5   7.4   9.4    MM   MM -1.1    MM
 2023 10 31 11 00  70  3.0  4.0   0.1     2    MM  MM 1024.0   8.2   9.1    MM   MM -0.8    MM
@@ -24,4 +25,3 @@
 2023 10 30 16 00 280  2.0  3.0   0.2     3    MM  MM 1028.9   7.1   9.0    MM   MM -0.0    MM
 2023 10 30 15 00 250  1.0  3.0   0.2     4    MM  MM 1028.8   7.2   9.2    MM   MM -0.3    MM
 2023 10 30 14 00 310  3.0  3.0   0.2     3    MM  MM 1028.8   7.1   9.1    MM   MM -0.5    MM
-2023 10 30 13 00  50  1.0  2.0   0.2     3    MM  MM 1028.8   7.4   9.0    MM   MM -1.0    MM
