@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2023-11-12T06:00:00Z,100,4.0,6.0,0.3,3,9.6
 2023-11-12T05:00:00Z,180,1.0,4.0,0.4,3,9.6
 2023-11-12T04:00:00Z,210,4.0,5.0,0.4,3,9.7
 2023-11-12T03:00:00Z,210,4.0,5.0,0.4,3,9.7
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2023-11-11T08:00:00Z,110,14.0,17.0,1.2,4,9.8
 2023-11-11T07:00:00Z,110,14.0,17.0,1.2,4,9.8
 2023-11-11T06:00:00Z,100,12.0,15.0,1.0,3,9.8
-2023-11-11T05:00:00Z,100,12.0,14.0,1.0,3,9.9
