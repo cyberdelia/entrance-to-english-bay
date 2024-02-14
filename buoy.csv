@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2024-02-14T09:00:00Z,170,2.0,2.0,0.3,3,6.7
 2024-02-14T08:00:00Z,240,2.0,2.0,0.3,3,6.9
 2024-02-14T07:00:00Z,250,3.0,3.0,0.3,3,7.6
 2024-02-14T06:00:00Z,210,3.0,4.0,0.4,3,7.4
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2024-02-13T11:00:00Z,30,6.0,8.0,0.2,2,7.6
 2024-02-13T10:00:00Z,230,2.0,3.0,0.2,3,7.5
 2024-02-13T09:00:00Z,20,3.0,4.0,0.2,3,7.6
-2024-02-13T08:00:00Z,20,2.0,3.0,0.3,3,7.6
