@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2024-05-07T17:00:00Z,290,10.0,12.0,0.8,4,11.0
 2024-05-07T16:00:00Z,290,9.0,11.0,0.8,4,10.8
 2024-05-07T15:00:00Z,300,9.0,11.0,0.8,4,10.9
 2024-05-07T14:00:00Z,310,9.0,10.0,0.8,4,10.9
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2024-05-06T19:00:00Z,150,3.0,4.0,0.2,3,12.1
 2024-05-06T18:00:00Z,100,1.0,2.0,0.2,3,11.6
 2024-05-06T17:00:00Z,140,3.0,3.0,0.3,3,11.4
-2024-05-06T16:00:00Z,170,3.0,4.0,0.3,3,11.3
