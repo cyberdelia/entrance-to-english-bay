@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2024-06-19T02:00:00Z,250,2.0,3.0,0.1,4,17.1
 2024-06-19T01:00:00Z,230,3.0,3.0,0.2,4,16.9
 2024-06-19T00:00:00Z,200,2.0,2.0,0.2,5,16.9
 2024-06-18T23:00:00Z,250,1.0,2.0,0.1,4,16.0
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2024-06-18T04:00:00Z,90,5.0,7.0,0.2,3,15.9
 2024-06-18T03:00:00Z,100,4.0,5.0,0.2,3,16.4
 2024-06-18T02:00:00Z,130,4.0,4.0,0.2,3,16.4
-2024-06-18T01:00:00Z,100,3.0,3.0,0.2,4,17.0
