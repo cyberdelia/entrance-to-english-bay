@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2024-08-12T21:00:00Z,150,6.0,7.0,0.4,3,20.1
 2024-08-12T20:00:00Z,140,7.0,8.0,0.4,3,20.1
 2024-08-12T19:00:00Z,140,6.0,8.0,0.3,3,20.3
 2024-08-12T18:00:00Z,140,5.0,6.0,0.3,3,20.5
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2024-08-11T23:00:00Z,200,2.0,3.0,0.2,3,21.7
 2024-08-11T22:00:00Z,180,3.0,4.0,0.3,3,21.7
 2024-08-11T21:00:00Z,180,5.0,5.0,0.4,3,21.6
-2024-08-11T20:00:00Z,160,6.0,7.0,0.4,3,21.6
