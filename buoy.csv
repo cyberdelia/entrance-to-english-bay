@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2024-10-16T18:00:00Z,260,4.0,5.0,0.3,3,12.5
 2024-10-16T17:00:00Z,260,5.0,6.0,0.4,3,12.4
 2024-10-16T16:00:00Z,220,3.0,4.0,0.5,3,12.4
 2024-10-16T15:00:00Z,200,4.0,6.0,0.7,3,12.3
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2024-10-15T20:00:00Z,200,3.0,4.0,0.1,3,12.7
 2024-10-15T19:00:00Z,0,5.0,7.0,0.2,3,12.7
 2024-10-15T18:00:00Z,320,2.0,2.0,0.1,5,12.6
-2024-10-15T17:00:00Z,170,2.0,3.0,0.1,2,12.5
