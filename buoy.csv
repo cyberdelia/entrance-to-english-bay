@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2024-11-21T08:00:00Z,70,4.0,5.0,0.4,3,8.9
 2024-11-21T07:00:00Z,60,6.0,7.0,0.4,3,8.8
 2024-11-21T06:00:00Z,60,5.0,6.0,0.4,3,8.7
 2024-11-21T05:00:00Z,50,7.0,9.0,0.3,3,8.7
@@ -22,4 +23,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2024-11-20T10:00:00Z,90,11.0,14.0,0.6,3,8.5
 2024-11-20T09:00:00Z,80,11.0,13.0,0.6,3,8.9
 2024-11-20T08:00:00Z,80,10.0,12.0,0.6,3,8.8
-2024-11-20T07:00:00Z,80,10.0,13.0,0.5,3,8.8
