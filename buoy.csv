@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2025-10-13T22:00:00Z,280,7.0,9.0,0.6,3,11.1
 2025-10-13T21:00:00Z,270,8.0,10.0,0.5,3,11.1
 2025-10-13T20:00:00Z,270,8.0,9.0,0.6,3,11.2
 2025-10-13T19:00:00Z,350,6.0,8.0,0.5,3,11.1
@@ -23,4 +24,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2025-10-13T00:00:00Z,350,6.0,8.0,0.4,3,11.8
 2025-10-12T23:00:00Z,340,5.0,7.0,0.4,3,11.9
 2025-10-12T22:00:00Z,350,7.0,8.0,0.4,3,11.7
-2025-10-12T21:00:00Z,350,5.0,6.0,0.4,3,11.7
