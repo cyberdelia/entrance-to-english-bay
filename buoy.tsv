@@ -1,5 +1,6 @@
 #YY  MM DD hh mm WDIR WSPD GST  WVHT   DPD   APD MWD   PRES  ATMP  WTMP  DEWP  VIS PTDY  TIDE
 #yr  mo dy hr mn degT m/s  m/s     m   sec   sec degT   hPa  degC  degC  degC  nmi  hPa    ft
+2025 11 22 20 00  70  7.0  9.0   0.5     3    MM  MM 1015.9  10.1   9.3    MM   MM -0.6    MM
 2025 11 22 19 00  70  8.0 10.0   0.5     3    MM  MM 1016.4  10.1   9.3    MM   MM +0.0    MM
 2025 11 22 18 00  70  8.0 10.0   0.5     3    MM  MM 1016.5   9.9   9.2    MM   MM -0.5    MM
 2025 11 22 17 00  70  8.0  9.0   0.5     3    MM  MM 1016.5  10.1   9.2    MM   MM -0.9    MM
@@ -24,4 +25,3 @@
 2025 11 21 22 00  60  7.0  9.0   0.5     3    MM  MM 1021.5   8.6   9.1    MM   MM -0.8    MM
 2025 11 21 21 00  60  8.0  9.0   0.5     3    MM  MM 1022.0   8.3   9.1    MM   MM -0.4    MM
 2025 11 21 20 00  60  8.0 10.0   0.5     3    MM  MM 1022.2   8.3   9.1    MM   MM +0.2    MM
-2025 11 21 19 00  60  8.0 10.0   0.5     3    MM  MM 1022.3   8.4   9.1    MM   MM +0.9    MM
