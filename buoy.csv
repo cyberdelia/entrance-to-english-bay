@@ -1,4 +1,5 @@
 date,wind direction,wind speed,gust speed,wave height,dominant wave period,water temperature
+2026-03-24T14:00:00Z,50,9.0,11.0,0.3,2,8.4
 2026-03-24T13:00:00Z,70,7.0,9.0,0.3,2,8.3
 2026-03-24T12:00:00Z,60,9.0,11.0,0.3,2,8.3
 2026-03-24T11:00:00Z,90,5.0,6.0,0.1,2,8.1
@@ -22,4 +23,3 @@ date,wind direction,wind speed,gust speed,wave height,dominant wave period,water
 2026-03-23T16:00:00Z,10,3.0,6.0,0.2,2,8.3
 2026-03-23T15:00:00Z,350,4.0,7.0,0.3,3,8.1
 2026-03-23T14:00:00Z,20,2.0,3.0,0.2,2,8.2
-2026-03-23T13:00:00Z,10,5.0,7.0,0.2,2,8.2
